@@ -1,7 +1,17 @@
-# 连环夺宝
-&nbsp;&nbsp;&nbsp;&nbsp;该游戏是用H5游戏框架phaser开发的,对于phaser的相关知识,可以通过[phaser官网](http://phaser.io/)
-或者[phaser小站](https://www.phaser-china.com/)进行了解,在这里特别感谢一下phaser小站,在那里我
-学到了许多关于phaser和网页制作的知识.  
-&nbsp;&nbsp;&nbsp;&nbsp;下面主要介绍一下这款游戏,连环夺宝是中福在线的一款电子彩票游戏,主要玩法通过下注进行,在游戏中获得的
-点数是游戏自动进行结算的,具体原理可以参考代码中main.js
-这是自己的第一个开源项目,希望大家点个star鼓励一下,如果游问题可以提,我会说明.
+# lhdb
+
+### 简介
+
+这是一个使用[phaser](<http://phaser.io/>)游戏引擎制作的网页版[连环夺宝](<https://baike.baidu.com/item/%E8%BF%9E%E7%8E%AF%E5%A4%BA%E5%AE%9D/8697226?fr=aladdin>)游戏，基本实现了连环夺宝所有的游戏规则，如果想要了解phaser的相关知识，可以到[phaser小站](<https://www.phaser-china.com/>)中。
+
+### 配置
+
+clone项目到本地后，可以使用http-server在项目根目录下创建服务，然后打开index.html即可运行该项目。
+
+关于如何使用http-server在本地开启一个服务器，可以参考[这篇文章](<https://blog.csdn.net/machi1/article/details/98995312>)。
+
+### 最后
+
+如果感觉该项目对你有所帮助，希望点个start。
+
+
